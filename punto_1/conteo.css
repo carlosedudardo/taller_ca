@@ -1,0 +1,54 @@
+html{
+    background-color: #ff6060;
+}
+
+body {
+  justify-content: center;
+  font-family: Arial, sans-serif;
+  color: white;
+  text-align: center;
+  text-shadow: 3px 3px 3px blue;
+  }
+
+  h1{
+    text-align: center;
+    justify-content: center;
+    color: white;
+    font-family: 'Asap Condensed', sans-serif;
+    font-size:50px;
+    text-shadow: 3px 3px blue;
+  }
+
+  label {
+    font-size: 35px;
+  }
+
+p {
+    font-size:35px;
+    font-family: 'Asap Condensed', sans-serif;
+  }
+
+input {
+    font-size: 25px;
+    padding: 10px;
+    margin: 35px;
+    border-radius: 10px;
+    border: none;
+    box-shadow: 0 0 10px rgba(11, 0, 218, 0.593);
+  }
+
+  button {
+    font-size: 20px;
+    padding: 15px;
+    margin: 5px;
+    border-radius: 15px;
+    border: none;
+    background-color: #3e83c4;
+    color: white;
+  }
+
+  #resultado {
+    font-size: 30px;
+    text-align: center;
+    margin: 25px;
+  } 
